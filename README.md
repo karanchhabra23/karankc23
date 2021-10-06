@@ -4,7 +4,7 @@
 &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=379172)](https://www.instagram.com/im_karankc/)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:karanrssb23@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:karanrssb23@gmail.com)<br>
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=karankc23.karankc23)
 <h1 align = "center"> Hey! I am Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
 <h3 align="center"> A Competitive Coder and a Beginner in Front-end WebDevelopment  </h3>
