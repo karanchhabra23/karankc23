@@ -25,8 +25,15 @@
   <br />
 <br />
 <br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankc23&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankc23&layout=compact&theme=gotham&hide_border=true&show_icons=true" />
+<!-- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karankc23&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankc23&layout=compact&theme=gotham&hide_border=true&show_icons=true" /> -->
+  <div align="center">
+  <p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karankc23&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Karan's Github Stats" width="600"/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankc23&theme=gotham&hide_border=true" alt="Karan's Github Streak" width="600"/>
+  </p>
+</div>
+<br />
 
 ![Visitor Count](https://profile-counter.glitch.me/karankc23/count.svg)
   
