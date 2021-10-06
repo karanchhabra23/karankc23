@@ -9,8 +9,6 @@
 <h3 align="center"> A Competitive Coder and a Beginner in Front-end WebDevelopment  </h3>
 
 
-## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
-
 <h3 align="center">Languages and tools I use:</h3>
 
 
