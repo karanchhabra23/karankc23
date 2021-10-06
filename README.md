@@ -1,3 +1,4 @@
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=karankc23.karankc23)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=379172)](https://www.linkedin.com/in/karankc23/)
 &nbsp;
 [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/karan.chhabra.9461)
