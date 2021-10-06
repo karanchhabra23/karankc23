@@ -46,6 +46,6 @@
 </div>
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/karankc23/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/karankc23/count.svg) -->
   
 </div>
